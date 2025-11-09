@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=YongChan Lee&fontSize=80)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=YongChan%20Lee&fontSize=80)
 # 👋 안녕하세요! 이용찬입니다.
 > [클라우드 엔지니어를 목표로 백엔드 개발과 프로젝트를 진행하며 꾸준히 학습하고 있습니다.]
 
