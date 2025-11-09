@@ -22,7 +22,20 @@
 * **Tools:**
     
 
-![lee-y-ch's GitHub stats](https://github-readme-stats.vercel.app/api?username=lee-y-ch&show_icons=true&theme=radical)
+<br>
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=lee-y-ch&show_icons=true&theme=radical" alt="lee-y-ch's GitHub stats" />
+      </td>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lee-y-ch&layout=compact&theme=radical" alt="lee-y-ch's Top Languages" />
+      </td>
+    </tr>
+  </table>
+</div>
+<br>
 
 <br>
 
@@ -31,7 +44,7 @@
 
 | 프로젝트명 | 기간 | 핵심 내용 및 주요 기능 | 사용 스택 | GitHub 링크 |
 | :--- | :--- | :--- | :--- | :--- |
-| **Nebula (풀스택)** | `[시작일] ~ [종료일]` | [프로젝트 1~2줄 요약]<br><br>**주요 기능:**<br>• [핵심 기능 1]<br>• [핵심 기능 2] | `[e.g., React]`<br>`[e.g., Spring Boot]`<br>`[e.g., MySQL]` | [Client](https://github.com/lee-y-ch/nebula-client)<br>[Backend](https://github.com/lee-y-ch/nebula-backend) |
+| **Nebula (풀스택)** | `[시작일] ~ [종료일]` | [프로젝트 1~2줄 요약]<br><br>**CLIENT (Python REST API)**<br>• [Client 측 핵심 기능 1 (예: API 엔드포인트 정의)]<br>• [Client 측 핵심 기능 2]<br><br>**BACKEND (Spring Boot on AWS)**<br>• [Backend 측 핵심 기능 1 (예: 비즈니스 로직)]<br>• [Backend 측 핵심 기능 2 (예: AWS EC2/S3 연동)] | `Python (RestAPI)`<br>`Spring Boot`<br>`AWS`<br>`[Other DB...]` | [Client](https://github.com/lee-y-ch/nebula-client)<br>[Backend](https://github.com/lee-y-ch/nebula-backend) |
 | **Tabling** | `[시작일] ~ [종료일]` | [프로젝트 1~2줄 요약]<br><br>**주요 기능:**<br>• [핵심 기능 1]<br>• [핵심 기능 2] | `[e.g., Spring Boot]`<br>`[e.g., JPA]`<br>`[e.g., Redis]` | [Repository](https://github.com/lee-y-ch/tabling) |
 | **EmbeddedIoT** | `[시작일] ~ [종료일]` | [프로젝트 1~2줄 요약]<br><br>**주요 기능:**<br>• [핵심 기능 1]<br>• [핵심 기능 2] | `[e.g., C++/Python]`<br>`[e.g., Raspberry Pi]`<br>`[e.g., MQTT]` | [Repository](https://github.com/lee-y-ch/EmbeddedIoT) |
 
