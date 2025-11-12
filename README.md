@@ -6,6 +6,7 @@
 
 ### 📬 Contact & Channels
 * **Email:** [dldydcks1745@gmail.com](mailto:dldydcks1745@gmail.com)
+* **Phone:** [010-7507-1745]
 * **GitHub:** [https://github.com/lee-y-ch](https://github.com/lee-y-ch)
 * **Major:** [단국대 소프트웨어학과 학사]
 
