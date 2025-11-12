@@ -6,9 +6,9 @@
 
 ### 📬 Contact & Channels
 * **Email:** [dldydcks1745@gmail.com](mailto:dldydcks1745@gmail.com)
-* **Phone:** [010-7507-1745]
+* **Phone:** 010-7507-1745
 * **GitHub:** [https://github.com/lee-y-ch](https://github.com/lee-y-ch)
-* **Major:** [단국대 소프트웨어학과 학사]
+* **Major:** 단국대 소프트웨어학과 학사
 
 <br>
 
@@ -106,7 +106,13 @@
 ## Education & Learning Goals
 
 ### 🎓 Education / Activities
-* **단국대학교 소프트웨어학과** (2021.3.2 ~)
+* **단국대학교 소프트웨어학과** (2021.03 ~ 재학중)
+* **Zeroton (제로톤) 참가** (2025.03)
+    * `Rentree` 프로젝트 (공유경제 플랫폼) 팀으로 참가
+* **GUFA CUP(경기도권 대학 축구 대회) 3등** (2024.11)
+    * `단국대 중앙 축구동아리 ACE` 소속으로 입상
+* **캄보디아 해외 교육 봉사** (2025.01.06 ~ 2025.01.16)
+    * `현지 초등학생 대상 체육 교과목 교육 붕사`
 
 <br>
 
