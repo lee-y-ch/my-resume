@@ -69,23 +69,20 @@
 ## 💡 핵심 역량 (Core Competencies)
 
 * **백엔드 시스템 설계**
-    * **Spring Boot (Java):** 비즈니스 로직 및 `Spring Data MongoDB` 연동 (`Tabling`, `Nebula-Backend`)
-    * **FastAPI (Python):** 고성능 비동기 REST API 서버 설계 (`Nebula-Client`)
+    * **Spring Boot (Java):** `Nebula-Backend`, `Rentree`, `Tabling` 프로젝트의 메인 API 서버 및 비즈니스 로직 설계
+    * **FastAPI (Python):** `Nebula-Client`의 고성능 비동기 REST API 서버 설계
 
-* **프론트엔드 개발**
-    * **React & TypeScript:** `Rentree` 프로젝트에서 컴포넌트 기반 UI/UX 설계 및 API 연동
-    
 * **클라우드 인프라 (DevOps)**
     * **AWS:** `Nebula-Backend` 프로젝트의 `EC2, S3, Lambda, SageMaker` 활용 배포 및 운영
-    * **Docker:** 애플리케이션 컨테이너화 및 개발/배포 환경 격리
+    * **Docker:** `Rentree` 등 다수 프로젝트의 애플리케이션 컨테이너화 및 환경 격리
     * **Jenkins:** `CI/CD` 파이프라인 구축 및 배포 자동화
 
-* **IoT 시스템 연동**
+* **IoT 및 AI 모델 연동**
     * `Raspberry Pi, Python` 기반 센서 데이터 수집 및 제어 (`EmbeddedIoT`)
-    * 백엔드 서버와 `HTTP/REST API` 방식의 데이터 연동
+    * `YOLOv8` 모델을 활용한 실시간 객체 탐지 시스템 구현 (`EmbeddedIoT`)
 
 * **협업 및 버전 관리**
-    * **Git & GitHub:** `Rentree` 등 공동 프로젝트(Collaborator) 경험
+    * **Git & GitHub:** 'zeroton' 대회(`Rentree`) 등 공동 프로젝트(Collaborator) 경험
     * `Git-flow` 브랜치 전략, 코드 리뷰, 이슈 트래킹 기반 협업
 
 <br>
@@ -97,7 +94,7 @@
 | :--- | :--- | :--- | :--- | :--- |
 | **Nebula (Backend)** | `2025.10.24 ~` | Spring Boot와 AWS 기반의 지능형 파일 관리 백엔드 서버<br>• Client에서 받은 파일 메타데이터/키워드를 OpenAI API로 전송<br>• AI가 생성한 새 파일명, 요약, P.A.R.A. 분류를 MongoDB에 저장<br>• AWS SageMaker/Lambda 기반 벡터 임베딩 및 검색 기능 구성|`Spring Boot`<br>`AWS EC2`<br>`MongoDB Atlas` | [Backend Repo](https://github.com/lee-y-ch/nebula-backend) |
 | **Nebula (Client)** | `2025.9.23 ~` |FastAPI(Python)와 Next.js 기반의 데스크톱 AI 파일 관리 앱<br>• Python `watchdog`을 통한 로컬 파일 변경 실시간 감지<br>• FastAPI로 로컬 파일 메타데이터(경로, 크기) API 제공<br>• 이미지(OCR), 문서 등에서 텍스트를 추출하여 백엔드로 전송|`Python (FastAPI)`<br>`Next.js`<br>`pyWebView` | [Client Repo](https://github.com/lee-y-ch/nebula-client) |
-| **Rentree (IOS)** | `2025.3.25 ~ 2025.3.29` | 학교 구성원 간의 개인 대여를 위한 제로웨이스트 공유경제 플랫폼<br>• 학교 인증 기능<br>• 실시간 채팅을 통한 물품 대여 거래<br>• 그린 레벨(친환경 등급) 확인 | `Spring Boot`<br>`MongoDB`<br>`Docker` | [Repository](https://github.com/JunSeo99/Rentree.git) |
+| **Rentree (IOS)** | `2025.3.25 ~ 2025.3.29` | 학교 구성원 간의 개인 대여를 위한 제로웨이스트 공유경제 플랫폼<br>• Spring Boot 기반 메인 백엔드 API 서버 구축<br>• 학교 인증, 물품 대여/관리 API 구현<br>• (Vapor 기반의)실시간 채팅 서버와 연동 | `Spring Boot`<br>`MongoDB`<br>`Docker` | [Repository](https://github.com/JunSeo99/Rentree.git) |
 | **Tabling** | `2025.5.4 ~ 2025.5.15` | 단국대학교 축제 주점의 혼잡을 줄이기 위한 모바일/PC 웹 기반 실시간 웨이팅 시스템<br>• 방문객) 휴대폰 번호 기반 웨이팅 등록 및 현황 조회<br>• 관리자) 실시간 웨이팅 리스트 확인 및 입장 처리 | `Next.js`<br>`React`<br>`Node.js` | [Repository](https://github.com/lee-y-ch/tabling) |
 | **EmbeddedIoT** | `2024.5.5 ~ 2024.6.17` | 라즈베리파이와 YOLOv8 머신러닝을 활용한 실시간 독버섯 탐지 및 정보 제공 시스템<br>• YOLOv8 모델 기반 카메라 실시간 버섯 탐지<br>• 독성/식용 여부를 LED(빨강/초록)로 표시<br>• 탐지된 버섯의 상세 정보를 웹페이지로 제공 | `Python`<br>`YOLOv8`<br>`Raspberry Pi` | [Repository](https://github.com/lee-y-ch/EmbeddedIoT.git) |
 
